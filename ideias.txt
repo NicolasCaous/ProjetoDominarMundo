@@ -1,4 +1,5 @@
 1 - Eu quero dominar o mundo
 2 - Para plantar banana
 3 - Fazer bolos de banana
-4 - Comer o bolo
+4 - Adicionar cobertura no bolo
+5 - Comer o bolo
