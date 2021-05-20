@@ -4,3 +4,4 @@
 4 - Adicionar cobertura no bolo
 5 - Comer o bolo
 6 - Descansar na Rede
+7 - Roncar
