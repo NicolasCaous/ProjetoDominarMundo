@@ -6,3 +6,4 @@
 6 - Descansar na Rede
 7 - Fazer Pilates
 8 - Descansar de novo
+9 - Levantar
